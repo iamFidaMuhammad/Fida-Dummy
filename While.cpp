@@ -6,7 +6,7 @@ int main()
 	while(i<=10)
 	{
 		cout<<i<<endl;
-		i++
+		i++;
 	}
 
 }
